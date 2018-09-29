@@ -1,4 +1,4 @@
 # LES COTOIS
 Alexis is big gay
 
-[IMAGE] (Les-Cotois/quai.jpg)
+![IMAGE] (https://i.imgur.com/wg3A7mY.jpg)
