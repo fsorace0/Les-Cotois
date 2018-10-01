@@ -1,5 +1,5 @@
 .content {
-   background:#ggg;
+   background:#aaa;
    padding-top:2em;
 }
 .home .content {
@@ -14,7 +14,7 @@
    border-radius: 5px;
 }
 .page-header h1 {
-   color:#ggg;
+   color:#aaa;
    margin:0;
 }
 .page-header h1:before {
