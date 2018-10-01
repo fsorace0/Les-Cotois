@@ -1,5 +1,5 @@
 .content {
-   background:#fff;
+   background:#ggg;
    padding-top:2em;
 }
 .home .content {
