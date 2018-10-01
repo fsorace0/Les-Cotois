@@ -14,7 +14,7 @@
    border-radius: 5px;
 }
 .page-header h1 {
-   color:#fff;
+   color:#ggg;
    margin:0;
 }
 .page-header h1:before {
